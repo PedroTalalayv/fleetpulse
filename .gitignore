@@ -1,0 +1,35 @@
+# Java
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse JDT (metadados gerados pela extensão Java do VS Code)
+.classpath
+.project
+.settings/
+.factorypath
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
