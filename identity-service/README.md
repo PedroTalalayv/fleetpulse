@@ -40,7 +40,9 @@ Git Bash, Linux ou macOS:
 "$JAVA_HOME/bin/java" -jar target/identity-service-0.1.0-SNAPSHOT.jar
 ```
 
-A aplicação sobe na porta 8080.
+> **Atenção:** a configuração do banco de dados ainda não foi adicionada. Até lá, a aplicação não inicia e falha com a mensagem `Failed to configure a DataSource`. O build não é afetado. Os passos desta seção e da seguinte voltam a funcionar quando o banco for configurado.
+
+Depois que o banco estiver configurado, a aplicação sobe na porta 8080.
 
 ## Verificar
 
