@@ -30,6 +30,9 @@ out/
 .settings/
 .factorypath
 
+# Variáveis de ambiente locais (contêm credenciais; os modelos são os .env.example)
+.env
+
 # Sistema operacional
 .DS_Store
 Thumbs.db
